@@ -40,8 +40,7 @@ Make sure you have the following installed on your machine:
 
   ```bash
      npm install
-
- ```
+   ```
 
 3. **Start the development server**:
 
