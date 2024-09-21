@@ -72,3 +72,10 @@ name (the name of the npm package)
 version (the specific version of the package)
 
 ### Screenshots  
+
+![Screenshot 2024-09-21 222817](https://github.com/user-attachments/assets/f06db1ef-42bf-4670-a838-523ba744e0c6)
+![Screenshot 2024-09-21 222838](https://github.com/user-attachments/assets/245af43d-d8d4-4762-a6d7-ff05423c4db9)
+![Screenshot 2024-09-21 222855](https://github.com/user-attachments/assets/4c49a11e-3ffa-465b-b60a-f344b9ca2d74)
+![Screenshot 2024-09-21 222906](https://github.com/user-attachments/assets/7f8233e8-403d-4010-9692-f274c2890b34)
+![Screenshot 2024-09-21 222921](https://github.com/user-attachments/assets/b6644cb0-cd8a-416a-96be-cf4f8bb2cbca)
+![Screenshot 2024-09-21 223047](https://github.com/user-attachments/assets/d31b7381-28c6-431f-9231-d448bd2bec46)
