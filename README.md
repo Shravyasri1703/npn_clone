@@ -32,26 +32,28 @@ Make sure you have the following installed on your machine:
    ```bash
    git clone https://github.com/YOUR_USERNAME/npm_clone.git
    cd npm_clone
-   
+  ```
+
 2. **Install Dependencies**:
 
-  Navigate to the project directory and install the necessary dependencies:
+   Navigate to the project directory and install the necessary dependencies:
 
   ```bash
-  npm install
+     npm install
 
-3. **Run the Development Server:
+ ```
 
-    Start the development server:
+3. **Start the development server**:
 
-    ```bash
+  ```bash
+   npm run dev
+   ```
 
-    npm run dev
-4. **Open the Application:
+4. **Open the Application**:
 
-Open your browser and go to http://localhost:3000 (or the port specified in your terminal) to view the application.
+  Open your browser and go to http://localhost:3000 (or the port specified in your terminal) to view the application.
 
-API Endpoints
+5. **API Endpoints**
 The application uses the following API endpoints to fetch data:
 
 Search Packages:
@@ -72,4 +74,4 @@ Path Parameters:
 name (the name of the npm package)
 version (the specific version of the package)
 
-## Screenshots
+### Screenshots  
