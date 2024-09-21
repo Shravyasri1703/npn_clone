@@ -69,8 +69,7 @@ const Version = () => {
                             {pkgVersion.dist && (
                                 <div className="my-4">
                                     <h3 className="text-xl font-semibold">Distribution</h3>
-                                    <p>SHA Sum: {pkgVersion.dist.shasum}</p>
-                                    <p>Integrity: {pkgVersion.dist.integrity}</p>
+                                    
                                     <p>
                                         Tarball:{" "}
                                         <a
