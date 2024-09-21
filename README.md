@@ -32,13 +32,11 @@ Make sure you have the following installed on your machine:
    ```bash
    git clone https://github.com/YOUR_USERNAME/npm_clone.git
    cd npm_clone
-  ```
+   ```
 
 2. **Install Dependencies**:
 
-   Navigate to the project directory and install the necessary dependencies:
-
-  ```bash
+   ```bash
      npm install
    ```
 
